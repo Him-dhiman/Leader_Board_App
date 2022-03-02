@@ -7,10 +7,7 @@ const UserSchema = new schema({
         type: String,
         required: true
     },
-    id: {
-        type: Number,
-        required: true
-    },
+ 
     score: {
         type: Number,
         required: true
